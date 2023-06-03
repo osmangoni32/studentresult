@@ -1,0 +1,8 @@
+C:\Users\OSMAN\Desktop\csharp\Studentcgpa\Studentcgpa\bin\Debug\Studentcgpa.exe.config
+C:\Users\OSMAN\Desktop\csharp\Studentcgpa\Studentcgpa\bin\Debug\Studentcgpa.exe
+C:\Users\OSMAN\Desktop\csharp\Studentcgpa\Studentcgpa\bin\Debug\Studentcgpa.pdb
+C:\Users\OSMAN\Desktop\csharp\Studentcgpa\Studentcgpa\obj\Debug\Studentcgpa.csproj.AssemblyReference.cache
+C:\Users\OSMAN\Desktop\csharp\Studentcgpa\Studentcgpa\obj\Debug\Studentcgpa.csproj.SuggestedBindingRedirects.cache
+C:\Users\OSMAN\Desktop\csharp\Studentcgpa\Studentcgpa\obj\Debug\Studentcgpa.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\Desktop\csharp\Studentcgpa\Studentcgpa\obj\Debug\Studentcgpa.exe
+C:\Users\OSMAN\Desktop\csharp\Studentcgpa\Studentcgpa\obj\Debug\Studentcgpa.pdb
